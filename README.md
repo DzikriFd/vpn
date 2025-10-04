@@ -10,7 +10,7 @@
 </p>
 
 ````
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/DzikriFd/vpn/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ````
 
 ![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/scp.png)
