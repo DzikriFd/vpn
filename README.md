@@ -13,7 +13,7 @@
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ````
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scp.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/scp.png)
 
 ## BAGI HAPROXY JNGAN INSTALL UBUNTU 22 KE ATAS DOWNGRADE AJA KE DEBIAN 10,11. BAGI YG MAU DI BANTU DI UPGRADE KE UBUNTU 20.04 SILAHKAN WA SAYA +6281450330727
 
@@ -34,10 +34,10 @@ Versi Enteng No Udp,slowdns,noobzvpn.no limit V2
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/main.sh && chmod +x main.sh && ./main.sh
 ````
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scu.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/scu.png)
 
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/scc.png)
 
 ### Cara Fix Dropbear Haproxy Nginx
 
@@ -45,12 +45,12 @@ https://youtu.be/5oyRchPMzJc?si=5n9sxwrbrn2y4URd
 
 Sedia AkunSsh Premium 10k isp indo & Sgdo
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/gb.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/gb.png)
 
 Sc Versi Enteng Stunel4 Disini
 https://github.com/Arya-Blitar22/auto
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/law.png)
+![logo](https://raw.githubusercontent.com/AryaDzikriFd/vpn/main/law.png)
 
 ### Pointing domain ke wilcard
 
@@ -68,11 +68,11 @@ VRAY-VMES-VLES WSTLS 443,8443 WS 80,8880
 
 TROJAN WSTLS 443,8443
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/obat.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/obat.png)
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/ubuntu.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/ubuntu.png)
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/soca.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/soca.png)
 
 ## Link Install Os Ubuntu 22.04 / 24.04 / 25.04
 ````
@@ -81,16 +81,16 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ## Haproxy Kalian
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/koplak.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/koplak.png)
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/koplak2.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/koplak2.png)
 
-![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/api.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/api.png)
 
 ### Sc All Os Haproxy
 
 ````
-wget --no-check-certificate https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/stupul.sh && chmod +x stupul.sh && ./stupul.sh
+wget --no-check-certificate https://raw.githubusercontent.com/DzikriFd/vpn/main/stupul.sh && chmod +x stupul.sh && ./stupul.sh
 ````
 
 ## Tuk pw cek vdeo terbarunya
