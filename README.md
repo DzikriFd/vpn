@@ -31,7 +31,7 @@ Jika Ada Yg Eror Bs Fixcert,Restart Service .jika Drobear Error Bisa Pilih nmer 
 Versi Enteng No Udp,slowdns,noobzvpn.no limit V2
 
 ````
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/main.sh && chmod +x main.sh && ./main.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/DzikriFd/vpn/main/main.sh && chmod +x main.sh && ./main.sh
 ````
 
 ![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/scu.png)
@@ -50,7 +50,7 @@ Sedia AkunSsh Premium 10k isp indo & Sgdo
 Sc Versi Enteng Stunel4 Disini
 https://github.com/Arya-Blitar22/auto
 
-![logo](https://raw.githubusercontent.com/AryaDzikriFd/vpn/main/law.png)
+![logo](https://raw.githubusercontent.com/DzikriFd/vpn/main/law.png)
 
 ### Pointing domain ke wilcard
 
